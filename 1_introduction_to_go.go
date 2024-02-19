@@ -1,11 +1,13 @@
-package main
+// package main
 
-func main() {
-	print("hello world")
+// import "fmt"
 
-	// this is a single line comment
+// func main() {
+// 	fmt.Println("hello world")
 
-	/*
-		this is a multi line comment
-	*/
-}
+// 	// this is a single line comment
+
+// 	/*
+// 		this is a multi line comment
+// 	*/
+// }
